@@ -1,0 +1,11 @@
+{
+  "name": "personal-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Privacy-first local personal dashboard for tasks, notes, habits and daily focus.",
+  "author": "Radwan Abdulhadi Ahmed (@rad03i2)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {"test": "node --test", "serve": "python -m http.server 8000"},
+  "engines": {"node": ">=20"}
+}
